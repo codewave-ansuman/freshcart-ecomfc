@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import clutch from "../../assets/pagesimage/abouts/clutch-dark.png";
 import member1 from "../../assets/pagesimage/abouts/01.jpg";
-import member2 from "../../assets/pagesimage/abouts/02.jpg";
+import member2 from "../../assets/pagesimage/abouts/02.jpg"
 import member3 from "../../assets/pagesimage/abouts/03.jpg";
 // import member4 from "../../images/04.jpg";
 import member5 from "../../assets/pagesimage/abouts/member5.jpg";
